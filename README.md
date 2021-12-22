@@ -1,4 +1,4 @@
-# DataCenterSiteSelection
+# Data Center Site Selection
 
 This Python Notebook shows the technical implementation of a mixed-integer programming model in GurobiPy.
 Its objective is to minimize the cost of a data center site selection. 
@@ -17,8 +17,9 @@ While minimizing cost, several constraints are considered related to :
 
 ![](img/DandS.png)
 
-
 The notebook is very graphical and shows the original results as well as alternative scenarios in interactive maps using Plotly.
 
 Under the current optimal solution, the model finds Denver and Memphis as the best configuration of sites to service Houston, Chicago, New York, Los Angeles and Phoenix.
+
+
 ![](img/results.png)
