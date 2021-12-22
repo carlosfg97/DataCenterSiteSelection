@@ -4,6 +4,7 @@ This Python Notebook shows the technical implementation of a mixed-integer progr
 Its objective is to minimize the cost of a data center site selection. 
 
 **[READ THE NOTEBOOK](https://carlosfg97.github.io/DataCenterSiteSelection/DataCenterSiteSelection_GurobiPy.html)**
+**Authors: L. D'hulst, C. Fabbri, S. Gupta, N. Hamra, R. Mukena**
 
 Costs are minimized in terms of:
  - Construction index (state estimate)
@@ -25,3 +26,5 @@ Under the current optimal solution, the model finds Denver and Memphis as the be
 
 
 ![](img/results.png)
+
+Done as part of McGill's Masters of Management in Analytics
