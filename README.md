@@ -3,7 +3,7 @@
 This Python Notebook shows the technical implementation of a mixed-integer programming model in GurobiPy.
 Its objective is to minimize the cost of a data center site selection. 
 
-**[VIEW THE PYTHON NOTEBOOK](https://carlosfg97.github.io/DataCenterSiteSelection/DataCenterSiteSelection_GurobiPy.html)**
+## [View Python Notebook](https://carlosfg97.github.io/DataCenterSiteSelection/DataCenterSiteSelection_GurobiPy.html)
 
 **Authors: L. D'hulst, C. Fabbri, S. Gupta, N. Hamra, R. Mukena**
 
